@@ -3,7 +3,7 @@ body,html{
 }
 body {
     font-family:monospace;
-    background-image: url("/Images/word.avif");
+    background-image: url("word.avif");
     height:100%;
     margin: 0;
     display: flex;
